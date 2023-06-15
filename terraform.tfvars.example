@@ -1,0 +1,5 @@
+GOOGLE_PROJECT   = "google-project-id"
+GITHUB_OWNER     = "github-owner"
+FLUX_GITHUB_REPO = "flux-repo-name"
+GKE_NUM_NODES    = "2"
+GOOGLE_REGION    = "us-central1-c"
